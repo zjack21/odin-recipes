@@ -1,0 +1,27 @@
+body {
+    font-family: "Courier New" , "Times New Roman", Verdana, sans-serif;
+    width: 800px;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+.recipes {
+    font-weight: bold;
+}
+
+li {
+    margin-bottom: 10px;
+}
